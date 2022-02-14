@@ -4,13 +4,13 @@
 
 .form button {
   font: inherit;
+  font-size: .9rem;
   cursor: pointer;
   background-color: #8a2b06;
   border: 1px solid #8a2b06;
   color: white;
-  padding: 0.25rem 2rem;
+  padding: 4px 16px;
   border-radius: 20px;
-  font-weight: bold;
 }
 
 .form button:hover,
